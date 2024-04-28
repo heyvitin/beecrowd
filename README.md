@@ -8,8 +8,7 @@ O BeeCrowd é uma plataforma popular entre programadores para a prática de prog
 
 ## Estrutura do Repositório
 
-Neste repositório, você encontrará soluções para uma variedade de problemas do BeeCrowd. As soluções estão organizadas em pastas correspondentes às categorias dos problemas, como matemática, strings, estruturas de dados, algoritmos de busca, entre outros.
-
+Neste repositório, você encontrará soluções para uma variedade de problemas do BeeCrowd. As soluções estão organizadas em ordem númericas correspondentes aos categorias dos problemas.
 ## Contribuindo
 
 Sua contribuição é bem-vinda! Se você tiver uma solução para um problema do BeeCrowd que ainda não está neste repositório, sinta-se à vontade para enviar um pull request. Certifique-se de seguir as diretrizes de contribuição e de adicionar explicações claras e comentários úteis ao seu código.
